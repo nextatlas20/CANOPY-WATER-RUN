@@ -1,0 +1,14 @@
+{"sample_id":"SM-101","tree_id":"TR-ASTER","observed_at":"2062-07-09T18:00","moisture_pct":21,"quality":"verified","revision":1}
+{"sample_id":"SM-101","tree_id":"TR-ASTER","observed_at":"2062-07-10T06:00","moisture_pct":18,"quality":"verified","revision":2}
+{"sample_id":"SM-102","tree_id":"TR-BIRCH","observed_at":"2062-07-10T05:30","moisture_pct":25,"quality":"verified","revision":1}
+{"sample_id":"SM-103","tree_id":"TR-CEDAR","observed_at":"2062-07-10T05:00","moisture_pct":10,"quality":"verified","revision":1}
+{"sample_id":"SM-104","tree_id":"TR-DOGWD","observed_at":"2062-07-10T04:30","moisture_pct":9,"quality":"verified","revision":1}
+{"sample_id":"SM-105","tree_id":"TR-ELDER","observed_at":"2062-07-08T07:15","moisture_pct":29,"quality":"verified","revision":1}
+{"sample_id":"SM-106","tree_id":"TR-FIRRR","observed_at":"2062-07-09T06:45","moisture_pct":15,"quality":"verified","revision":1}
+{"sample_id":"SM-107","tree_id":"TR-FIRRR","observed_at":"2062-07-11T01:00","moisture_pct":3,"quality":"verified","revision":1}
+{"sample_id":"SM-108","tree_id":"TR-ASTER","observed_at":"2062-07-10T07:00","moisture_pct":12,"quality":"pending","revision":1}
+{"sample_id":"SM-109","tree_id":"TR-GHOST","observed_at":"2062-07-10T03:00","moisture_pct":1,"quality":"verified","revision":1}
+{"sample_id":"SM-110","tree_id":"TR-ELDER","observed_at":"2062-06-30T03:00","moisture_pct":2,"quality":"verified","revision":1}
+{"sample_id":"SM-105","tree_id":"TR-ELDER","observed_at":"2062-07-08T07:15","moisture_pct":28,"quality":"verified","revision":1}
+{"sample_id":"SM-111","tree_id":"TR-BIRCH","observed_at":"2062-07-10T05:45","moisture_pct":20,"quality":"pending","revision":1}
+not-json

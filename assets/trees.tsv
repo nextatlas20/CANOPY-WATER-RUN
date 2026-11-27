@@ -1,0 +1,11 @@
+tree_id	district	species	active	access	trigger_pct	liters_per_point	revision
+TR-ASTER	Riverside	Elm	yes	open	30	4	1
+TR-BIRCH	Hilltop	Oak	yes	open	25	5	1
+TR-CEDAR	Market	Plane	yes	blocked	35	3	1
+TR-DOGWD	Riverside	Maple	no	open	28	4	1
+TR-ELDER	Market	Lime	yes	open	32	2	1
+TR-FIRRR	Hilltop	Pine	yes	open	20	6	1
+TR-ASTER	Riverside East	Elm	yes	open	30	4	2
+TR-BIRCH	Hilltop	Oak	yes	open	25	7	2
+BROKEN	Market	Ash	yes	open	030	2	1
+TR-ELDER	Old Market	Lime	yes	open	32	9	1
